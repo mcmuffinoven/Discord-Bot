@@ -7,7 +7,7 @@ import asyncio
 
 #client.run("NDgzNTI4ODA0NjYxMTk4ODY0.DmUxGw.v2gh-ac3vjWvPC18aKcEZjBOyOk")
 
-TOKEN = 'NDgzNTI4ODA0NjYxMTk4ODY0.DmUxGw.v2gh-ac3vjWvPC18aKcEZjBOyOk'
+TOKEN = ''
 
 client = discord.Client()
 
